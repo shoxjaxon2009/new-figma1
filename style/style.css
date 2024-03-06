@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.continer {
+    width: 1318px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    float: left;
+    color: gray;
+}
+
+.t {
+    margin-left: 295px;
+    margin-top: -384px;
+    width: 540px;
+}
+
+.center1 {
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: 375px;
+    color: rgb(2, 0, 55);
+}
+
+.w {
+    width: 1102px;
+    margin-left: 200px;
+}
+
+.center2 {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    float: right;
+}
+
+.mars {
+    width: 210px;
+    margin-top: -147px;
+    margin-left: 100px;
+}
+
+.text {
+    background-color: #091133;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-size: 14px;
+    border: none;
+}
+
+.tex1 {
+    width: 100px;
+    height: 21px;
+    background-color: white;
+    border: 1px solid #091133;
+    color: #091133;
+}
+
+.provided {
+    display: flex;
+}
+
+.images {
+    margin-top: -146px;
+    margin-left: 295px;
+    width: 500px;
+    height: 300px;
+}
+
+.provided .list {
+    margin-left: 124px;
+    margin-right: 300px;
+    margin-top: 60px;
+    padding: 45px;
+}
+
+.provided .list h1 {
+    font-size: 35px;
+    font-weight: 500;
+    font-family: "Rubik", sans-serif;
+}
+
+.provided .list p {
+    margin: 20px 0px;
+}
+
+.list1 {
+    margin-left: 168px;
+}
+
+.images1 {
+    margin-top: -146px;
+    margin-left: 255px;
+    width: 500px;
+    height: 300px;
+}
+
+.provided11 {
+    margin-top: 250px;
+}
+
+.ll {
+    margin-left: 361px;
+    margin-top: -115px;
+}
+
+.aa {
+    margin-top: -115px;
+}
+
+.list2 {
+    margin-left: 810px;
+    margin-top: -300px;
+}
+
+.images2 {
+    margin-left: 100px;
+}
+
+.provided2 {
+    margin-top: 150px;
+}
+
+.box {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.center {
+    font-size: 25px;
+    margin-left: 345px;
+    margin-top: -740px;
+}
+
+.button img {
+    width: 1317px;
+}
